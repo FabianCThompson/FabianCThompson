@@ -1,6 +1,7 @@
 # IT Helpdesk Labs Repository 🛠️💻
 
-![image](https://github.com/user-attachments/assets/7a2ab83a-682f-4950-b18e-3b2c32642728)
+![help desk computer](https://github.com/user-attachments/assets/ac8c29f0-6dd3-4613-acce-f92135632811)
+
 
 *(Replace with actual banner image - consider [creating one](https://www.canva.com/) with IT/helpdesk visuals)*
 

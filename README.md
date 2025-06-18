@@ -81,9 +81,6 @@ Hands-on simulations demonstrating core IT support competencies used in enterpri
 - Secure RDP tunnel configuration  
 - Session recording & documentation  
 - Privileged access management  
-**Business Impact**: Reduced remote session setup time to under 2 minutes  
-
----
 
 ## 🏆 Technical Skills Matrix
 

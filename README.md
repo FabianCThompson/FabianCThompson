@@ -4,8 +4,7 @@
 
 # 🚀 Fabian Thompson - IT Support Specialist Portfolio
 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](www.linkedin.com/in/fabian-thompson)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/fabian-thompson)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:your@email.com)
 [![Resume](https://img.shields.io/badge/📄-Download%20Resume-brightgreen?style=flat)](link-to-resume)
 

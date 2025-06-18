@@ -36,7 +36,7 @@ Hands-on simulations demonstrating core IT support competencies used in enterpri
 **Business Impact**: Reduced simulated account compromise risk by 78%  
 
 ### 🌐 Active Directory Implementation
-[![Lab 2](https://img.shields.io/badge/LAB_2-Active_Directory_in_Enterprise-0078D7?style=flat-square)]()
+[![Lab 2](https://img.shields.io/badge/LAB_2-Active_Directory_in_Enterprise-0078D7?style=flat-square)](https://github.com/FabianCThompson/Active-Directory-Enterprise-Security-Lab)
 **Skills Demonstrated**:  
 - OU structure design for mid-size organization  
 - Group Policy deployment (GPO)  

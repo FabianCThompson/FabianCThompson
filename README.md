@@ -38,7 +38,7 @@ Hands-on simulations demonstrating core IT support competencies used in enterpri
 ### 🌐 Active Directory Implementation
 [![Lab 2](https://img.shields.io/badge/LAB_2-Active_Directory_in_Enterprise-0078D7?style=flat-square)](https://github.com/FabianCThompson/Active-Directory-Enterprise-Security-Lab)
 **Skills Demonstrated**:  
-- OU structure design for mid-size organization  
+- Organizational Units structure design for a mid-size/large organization  
 - Group Policy deployment (GPO)  
 - AD health monitoring & maintenance  
 **Business Impact**: Streamlined user onboarding by 65%  

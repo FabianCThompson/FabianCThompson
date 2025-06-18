@@ -92,13 +92,3 @@ Hands-on simulations demonstrating core IT support competencies used in enterpri
 | **OS Management**    | Windows 10/11, Ubuntu, macOS                  | MD-102 In Progress     |
 | **Remote Support**   | RDP, TeamViewer, PowerShell Remoting          |                        |
 
----
-
-## 💼 Business Value Delivered
-
-```mermaid
-pie title Lab Impact Distribution
-    “Security Improvements” : 35
-    “Efficiency Gains” : 30
-    “Cost Reduction” : 20
-    “Compliance” : 15

@@ -1,6 +1,7 @@
 # IT Helpdesk Labs Repository 🛠️💻
 
-![Helpdesk Banner](https://via.placeholder.com/1200x400/0d1117/00aeff?text=IT+Helpdesk+Learning+Labs)  
+![image](https://github.com/user-attachments/assets/7a2ab83a-682f-4950-b18e-3b2c32642728)
+
 *(Replace with actual banner image - consider [creating one](https://www.canva.com/) with IT/helpdesk visuals)*
 
 ## Welcome, Helpdesk Heroes! 👋

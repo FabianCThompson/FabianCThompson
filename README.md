@@ -2,9 +2,6 @@
 
 ![help desk computer](https://github.com/user-attachments/assets/ac8c29f0-6dd3-4613-acce-f92135632811)
 
-
-*(Replace with actual banner image - consider [creating one](https://www.canva.com/) with IT/helpdesk visuals)*
-
 ## Welcome, Helpdesk Heroes! 👋
 
 This repository contains practical lab walkthroughs designed to build your **technical troubleshooting skills** and **IT service delivery knowledge**. Each lab simulates real-world helpdesk scenarios with step-by-step guidance.

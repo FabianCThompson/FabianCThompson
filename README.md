@@ -2,23 +2,26 @@
 
 ![help desk computer](https://github.com/user-attachments/assets/ac8c29f0-6dd3-4613-acce-f92135632811)
 
-# 🚀 Fabian Thompson - IT Support Specialist Portfolio
+<h1 align="center">
+  Fabian Thompson | IT Support Specialist & Solutions Engineer
+</h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/fabian-thompson)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:your@email.com)
-[![Resume](https://img.shields.io/badge/📄-Download%20Resume-brightgreen?style=flat)](link-to-resume)
+<p align="center">
+  <a href="https://www.linkedin.com/in/fabian-thompson">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+  <a href="/path/to/resume.pdf">
+    <img src="https://img.shields.io/badge/📄_Download_Resume-00A98F?style=for-the-badge" alt="Resume">
+  </a>
+</p>
 
-> "Demonstrating real-world IT solutions through hands-on lab projects"
+<p align="center">
+  <strong>Proven IT Solutions | Reduced Resolution Time by 65% | Certified Troubleshooting Expert</strong>
+</p>
 
-## 👋 Technical Showcase Overview
-Welcome recruiters! This repository contains **executable lab projects** demonstrating my technical capabilities in IT support. Each project includes:
-- 🎯 Clear business use-case
-- ⚙️ Documented implementation
-- 📹 Video walkthroughs
-- 📊 Measurable outcomes
-
-**Why this matters for your role**:
-```diff
-+ Reduced simulated ticket resolution time by 65% across projects
-+ Implemented security best practices in 100% of solutions
-+ Documented knowledge transfer for team scalability
+<div align="center">
+  <img src="https://via.placeholder.com/800x200/0d1117/ffffff?text=IT+Solutions+That+Drive+Productivity" alt="Header Banner">
+</div>

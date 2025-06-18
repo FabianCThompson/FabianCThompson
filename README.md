@@ -1,4 +1,4 @@
-# IT Helpdesk Labs Repository 🛠️💻
+# IT Professional Labs Repository 🛠️💻
 
 ![help desk computer](https://github.com/user-attachments/assets/ac8c29f0-6dd3-4613-acce-f92135632811)
 
